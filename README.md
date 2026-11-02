@@ -298,7 +298,7 @@ Potential improvements to the project include:
 
 ## Acknowledgements
 
-Developed as a robotics project for XLR8 competition participation.
+Developed as a robotics project for XLR8 2026 competition participation and won.
 
 ---
 
